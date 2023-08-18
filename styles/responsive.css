@@ -77,7 +77,7 @@
       -moz-transform: rotate(405deg) translate(-5px, -7px);
       -ms-transform: rotate(405deg) translate(-5px, -7px);
       -o-transform: rotate(405deg) translate(-5px, -7px);
-   }
+}
 
    :root {
       --sectionPadding:4rem 0;
